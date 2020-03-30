@@ -6,7 +6,7 @@ Live Demo: [Crunch](http://kssbro.github.io/crunch)
 
 ## Getting Started
 
-Just add the CSS and JS files to your project and add the HTML to your page and call **snackbarController()**.
+Just add the CSS and JS files to your project and add the HTML code to your page and call **snackbarController()**.
 
 ## Authors
 
