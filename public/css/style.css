@@ -55,6 +55,7 @@ body {
 
 #main-container #subtitle {
     color: lightgrey;
+    font-weight: bold;
     font-size: 25px;
     margin-top: -140px;
     font-family: "Roboto", sans-serif;
