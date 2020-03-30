@@ -147,6 +147,7 @@ body {
         font-size: 60px;
         margin-top: -280px;
         font-family: "Roboto", sans-serif;
+        font-weight: bold;
     }
 
     #main-container #input-container {
@@ -171,6 +172,7 @@ body {
     #main-container #footnote {
         margin-top: 300px;
         font-size: 32px;
+        font-weight: bold;
     }
     
     #snackbar {
