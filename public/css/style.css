@@ -92,6 +92,10 @@ body {
     cursor: pointer;
 }
 
+#main-container #input-container #button-input:hover {
+    box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+}
+
 #main-container #footnote {
     margin-top: 100px;
     font-weight: bold;
@@ -103,6 +107,10 @@ body {
 #main-container #footnote a {
     color: lightgrey;
     text-decoration: none;
+}
+
+#main-container #footnote a:hover {
+    color: grey;
 }
 
 #snackbar {
