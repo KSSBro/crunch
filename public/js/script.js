@@ -6,13 +6,13 @@ goBtn.addEventListener("click", function(event) {
     const msg = document.getElementById("message-input");
     let message = msg.value;
     if(message.length > 0) {
-        snackbarController(message);
+        showSnackbar(message);
     } else {
-        snackbarController("Message goes here!");
+        showSnackbar("Message goes here!");
     }
 }); 
 
-function snackbarController(message) {
+function showSnackbar(message) {
   snackbarText.innerHTML = message;
   snackbarVisible();
 }
