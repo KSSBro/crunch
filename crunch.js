@@ -1,7 +1,7 @@
 const snackbar = document.getElementById("snackbar");
 const snackbarText = document.getElementById("snackbar-text");
 
-function snackbarController(message, backgroundColor, textColor) {
+function showSnackbar(message, backgroundColor, textColor) {
   snackbarText.innerHTML = message;
   snackbar.style.backgroundColor = backgroundColor;
   snackbar.style.color = textColor;
