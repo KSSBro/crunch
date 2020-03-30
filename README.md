@@ -1,6 +1,7 @@
 # Crunch
 
 Material Snackbar made with CSS and JS.
+Live Demo: [Crunch](http://kssbro.github.io/crunch)
 
 ## Getting Started
 
