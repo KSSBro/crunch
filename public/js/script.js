@@ -1,9 +1,10 @@
-const goBtn = document.getElementById("button-input");
+const inputContainer = document.getElementById("input-container")
 const snackbar = document.getElementById("snackbar");
 const snackbarText = document.getElementById("snackbar-text");
 
-goBtn.addEventListener("click", function(event) {
-    const msg = document.getElementById("message-input");
+inputContainer.addEventListener("submit", function(event) {
+  event.preventDefault();
+    const msg = document.getElementById("message-field");
     let message = msg.value;
     if(message.length > 0) {
         showSnackbar(message);
