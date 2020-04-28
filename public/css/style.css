@@ -54,9 +54,8 @@ body {
 }
 
 #main-container #subtitle {
-    color: lightgrey;
-    font-weight: bold;
-    font-size: 25px;
+    color: grey;
+    font-size: 22px;
     margin-top: -140px;
     font-family: "Roboto", sans-serif;
 }
@@ -99,19 +98,19 @@ body {
 
 #main-container #footnote {
     margin-top: 100px;
-    font-weight: bold;
-    color: lightgrey;
+    font-weight: bolder;
+    color: grey;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
 }
 
 #main-container #footnote a {
-    color: lightgrey;
+    color: grey;
     text-decoration: none;
 }
 
 #main-container #footnote a:hover {
-    color: grey;
+    color: black;
 }
 
 #snackbar {
@@ -156,7 +155,6 @@ body {
         font-size: 55px;
         margin-top: -280px;
         font-family: "Roboto", sans-serif;
-        font-weight: bold;
     }
 
     #main-container #input-container {
@@ -181,7 +179,6 @@ body {
     #main-container #footnote {
         margin-top: 300px;
         font-size: 32px;
-        font-weight: bold;
     }
     
     #snackbar {
