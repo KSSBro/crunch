@@ -2,7 +2,7 @@
 
 Material Snackbar made with CSS and JS.
 <br/>
-Live Demo: [Crunch](http://kssbro.github.io/crunch)
+Live Demo: [Crunch](http://araekiel.github.io/crunch)
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ Just add the CSS and JS files to your project and add the HTML code to your page
 
 ## Authors
 
-- **KSSBro** - [Github](https://github.com/KSSBro)
+- **Araekiel** - [Github](https://github.com/Araekiel)
 
 ## License
 
